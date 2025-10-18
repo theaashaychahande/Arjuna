@@ -60,7 +60,7 @@
 - 🔄 **Mobile App** - Native mobile experience
 
 ## 📁 Project Structure
-Arjuna/
+```Arjuna/
 ├── frontend/                 # React application
 │   ├── src/
 │   │   ├── components/      # Reusable UI components
@@ -73,7 +73,7 @@ Arjuna/
 │   │   ├── models/         # Data models
 │   │   ├── services/       # Business logic
 │   │   └── core/           # Config & security
-└── docs/                   # Documentation
+└── docs/                   # Documentation ```
 
 ## 🚀 Getting Started
 
