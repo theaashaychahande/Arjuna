@@ -60,7 +60,6 @@
 - 🔄 **Mobile App** - Native mobile experience
 
 ## 📁 Project Structure
-
 Arjuna/
 ├── frontend/                 # React application
 │   ├── src/
