@@ -60,20 +60,21 @@
 - 🔄 **Mobile App** - Native mobile experience
 
 ## 📁 Project Structure
-automate-bharat/
-├── frontend/ # React application
-│ ├── src/
-│ │ ├── components/ # UI components
-│ │ ├── pages/ # Application pages
-│ │ ├── workflows/ # Builder components
-│ │ └── locales/ # Multi-language files
-├── backend/ # FastAPI application
-│ ├── app/
-│ │ ├── api/ # Route handlers
-│ │ ├── models/ # Data models
-│ │ ├── services/ # Business logic
-│ │ └── core/ # Config & security
-└── docs/ # Documentation
+
+Arjuna/
+├── frontend/                 # React application
+│   ├── src/
+│   │   ├── components/      # Reusable UI components
+│   │   ├── pages/          # Application pages
+│   │   ├── workflows/      # Builder components
+│   │   └── locales/        # Multi-language files
+├── backend/                 # FastAPI application
+│   ├── app/
+│   │   ├── api/            # Route handlers
+│   │   ├── models/         # Data models
+│   │   ├── services/       # Business logic
+│   │   └── core/           # Config & security
+└── docs/                   # Documentation
 
 ## 🚀 Getting Started
 
