@@ -59,22 +59,6 @@
 - 🔄 **Advanced Analytics** - Business insights dashboard
 - 🔄 **Mobile App** - Native mobile experience
 
-## 📁 Project Structure
-```Arjuna/
-├── frontend/                 # React application
-│   ├── src/
-│   │   ├── components/      # Reusable UI components
-│   │   ├── pages/          # Application pages
-│   │   ├── workflows/      # Builder components
-│   │   └── locales/        # Multi-language files
-├── backend/                 # FastAPI application
-│   ├── app/
-│   │   ├── api/            # Route handlers
-│   │   ├── models/         # Data models
-│   │   ├── services/       # Business logic
-│   │   └── core/           # Config & security
-└── docs/                   # Documentation ```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -119,6 +103,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **India Stack** for providing open API infrastructure (UPI, Aadhaar, GST)
 - **FastAPI & React Communities** for excellent documentation and tools
 - **Indian SME Associations** for valuable insights and user feedback
+
+## 📁 Project Structure
+```Arjuna/
+├── frontend/                 # React application
+│   ├── src/
+│   │   ├── components/      # Reusable UI components
+│   │   ├── pages/          # Application pages
+│   │   ├── workflows/      # Builder components
+│   │   └── locales/        # Multi-language files
+├── backend/                 # FastAPI application
+│   ├── app/
+│   │   ├── api/            # Route handlers
+│   │   ├── models/         # Data models
+│   │   ├── services/       # Business logic
+│   │   └── core/           # Config & security
+└── docs/                   # Documentation ```
 
 
 
