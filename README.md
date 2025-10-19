@@ -6,7 +6,7 @@
 
 ## 🌟 Revolutionizing Digital Transformation for Indian SMEs
 
-**AutomateBharat** is an innovative low-code/no-code platform specifically designed to empower Indian Small and Medium Enterprises. We're building the ultimate solution to bridge the digital divide for 63 million+ SMEs struggling with technical barriers and language constraints.
+**Arjuna** is an innovative low-code/no-code platform specifically designed to empower Indian Small and Medium Enterprises. We're building the ultimate solution to bridge the digital divide for 63 million+ SMEs struggling with technical barriers and language constraints.
 
 ## 🚀 Why Arjuna ?
 
