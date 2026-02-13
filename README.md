@@ -1,4 +1,4 @@
-![Arjuna - Intelligent Compliance]
+[Arjuna - Intelligent Compliance]
 
 ### An initiative by Seneca
 
