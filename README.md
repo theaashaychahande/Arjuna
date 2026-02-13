@@ -37,6 +37,6 @@ Arjuna operates on a freemium SaaS model tailored to different business needs:
 ##  Live Product
 
 The platform is live and serving users.
--   **Product URL:** [https://arjuna-webapp.netlify.app]((https://arjuna-ai.netlify.app/))
+-   **Product URL:** (((https://arjuna-ai.netlify.app/))
 
 ---
