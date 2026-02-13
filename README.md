@@ -1,6 +1,5 @@
-[Arjuna - Intelligent Compliance]
-
-### An initiative by Seneca
+## [Arjuna - Intelligent Compliance]
+    An initiative by Seneca
 
 # Arjuna: Intelligent GST Compliance via WhatsApp
 
@@ -9,7 +8,7 @@ Instant AI notice analysis. Hindi voice explanations. Ready-to-use reply letters
 
 ---
 
-## 🚀 Product Vision
+##  Product Vision
 **Arjuna** is an intelligent compliance assistant designed specifically for Indian shopkeepers and traders. It bridges the gap between complex tax laws and the shop floor by providing instant, simplified, and actionable legal advice through a platform they already use: **WhatsApp**.
 
 ### The Solution
@@ -21,7 +20,7 @@ Arjuna allows users to:
 
 ---
 
-## 💎 Product Features & Model
+##  Product Features & Model
 
 Arjuna operates on a freemium SaaS model tailored to different business needs:
 
@@ -35,7 +34,7 @@ Arjuna operates on a freemium SaaS model tailored to different business needs:
 
 ---
 
-## 🌐 Live Product
+##  Live Product
 
 The platform is live and serving users.
 -   **Product URL:** [https://arjuna-webapp.netlify.app](https://arjuna-webapp.netlify.app)
